@@ -27,7 +27,7 @@
        - [第24节](/md/idea-plugin/25.Java中的各种锁和CAS+面试题.md)
        - [第25节](/md/idea-plugin/26.Spring核心功能演示+面试题.md)
        - [第26节](/md/idea-plugin/27.SpringMVC核心组件+面试题.md)
-       - [第27节](/md/idea-plugin/28.Spring Boot的创建方式+面试题.md)
+       - [第27节](/md/idea-plugin/28.SpringBoot的创建方式+面试题.md)
        - [第28节](/md/idea-plugin/29.MyBatis核心组件+面试题.md)
        - [第29节](/md/idea-plugin/30.对数据库的基本操作步骤+面试题.md)
        - [第30节](/md/idea-plugin/31.消息队列面试题汇总.md)
